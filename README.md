@@ -5,7 +5,7 @@
 
   A specialized assistant in Versa that enhances Large Language Models with SPOKE biomedical knowledge
   
-  [Quick Start](#quick-start) • [Features](#features--benefits) • [Examples](#example-queries) • [API Documentation](docs/API.md) • [Detailed Examples](docs/EXAMPLES.md)
+  [Quick Start](#quick-start) • [KG-RAG](#what-is-kg-rag) • [Examples](#example-queries) • [API Documentation](docs/API.md)
 </div>
 
 ## Table of Contents
