@@ -14,7 +14,7 @@
 - [What is KG-RAG?](#what-is-kg-rag)
 - [Using KG-RAG in Versa](#using-kg-rag-in-versa)
 - [Example Queries with Versa](#example-queries)
-- [KG-RAG API Access](#api-access)
+- [KG-RAG API Access](#kg-rag-api-access)
 - [Additional Resources](#additional-resources)
 
 ## Quick Start
