@@ -274,3 +274,35 @@ Based on SPOKE's knowledge graph structure, you can ask questions about:
 
 🔎 **Disease-Anatomy Localization**
 *Example: "Which anatomical structures are affected by diabetes?"*
+
+
+## KG-RAG API Access
+
+While KG-RAG is integrated into Versa for disease-centric queries, you can also access it directly through our REST APIs for broader biomedical questions. We provide two specialized endpoints:
+
+### Available Endpoints
+
+1. **Disease-Centric Endpoint** (`v1/kg_rag_context`)
+   - Optimized for disease-related queries
+   - Used by Versa integration
+   - Requires specific disease nodes
+
+2. **Extended Endpoint** (`v1/kg_rag_context_extended`)
+   - Supports broader biomedical queries
+   - No disease node requirement
+   - More flexible querying capabilities
+
+### Key Features
+- Access to complete SPOKE knowledge
+- Statistical evidence inclusion option
+- Configurable search depth
+- Detailed provenance information
+
+For detailed documentation, including:
+- Complete API reference
+- Code examples
+- Response formats
+- Implementation guidelines
+
+📚 Please refer to our [API Documentation](docs/API.md)
+
