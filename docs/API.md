@@ -1,6 +1,6 @@
 # KG-RAG API Documentation
 
-KG-RAG provides two REST API endpoints for accessing SPOKE's biomedical knowledge. This documentation details the endpoints, their parameters, and usage.
+KG-RAG provides two REST API endpoints for accessing biomedical context from SPOKE Knowledge Graph. This documentation details the endpoints, their parameters, and usage.
 
 ## Table of Contents
 - [Base URI](#base-uri)
