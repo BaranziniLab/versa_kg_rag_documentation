@@ -401,5 +401,5 @@ Both sources agree on the main types of multiple sclerosis: relapsing-remitting 
 
 ---
 <div align="center">
-  <p><i>Note: These examples were generated using KG-RAG in Versa. Responses may vary slightly based on the LLM model used.</i></p>
+  <p><i>Note: These examples were generated using KG-RAG in Versa with GPT-4o model.</i></p>
 </div>
