@@ -3,7 +3,7 @@
 
   # KG-RAG: Knowledge Graph-Enhanced Biomedical Assistant
 
-  A specialized assistant in Versa that enhances Large Language Models with SPOKE biomedical knowledge
+  A specialized assistant in Versa that enhances Large Language Models with SPOKE biomedical knowledge graph
   
   [Quick Start](#quick-start) • [KG-RAG](#what-is-kg-rag) • [Examples](docs/EXAMPLES.md) • [API Documentation](docs/API.md)
 </div>
