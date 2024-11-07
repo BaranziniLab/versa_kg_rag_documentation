@@ -91,12 +91,15 @@ TRIP13: Associated with leukemia. Provenance: HPO
 TREX1: Associated with leukemia. Provenance: HPO
 TREM2: Associated with leukemia. Provenance: HPO
 XRCC4: Associated with leukemia. Provenance: HPO
+
 To provide a complete answer, I’ll add information from my trained biomedical knowledge along with this:
 
 BRCA1/BRCA2: Mutations in these genes, commonly associated with breast cancer, have also been linked to an increased risk of leukemia.
 TP53: Mutations in this tumor suppressor gene are known to contribute to various cancers, including leukemia.
 RUNX1: Mutations in this gene are associated with familial platelet disorder with a predisposition to acute myeloid leukemia (AML).
+
 SECTION 2 - ANALYSIS WITHOUT SPOKE (USING KNOWLEDGE FROM LLM TRAINING)
+
 Genetic factors play a significant role in the development of leukemia. Key genes implicated include:
 
 BRCA1/BRCA2: Known for their role in breast cancer, mutations in these genes can also increase leukemia risk.
@@ -104,14 +107,18 @@ TP53: A critical tumor suppressor gene, mutations in TP53 are linked to various 
 RUNX1: Mutations in this gene are associated with familial platelet disorder and predispose individuals to acute myeloid leukemia (AML).
 FLT3: Mutations in this gene are common in acute myeloid leukemia (AML) and are associated with poor prognosis.
 NPM1: Mutations in this gene are frequently found in AML and are used as a diagnostic marker.
+
 SECTION 3 - SUMMARY
+
 From Section 1 (with SPOKE):
 
 SPOKE provides a comprehensive list of genes associated with leukemia, including ABL1, FLT3, RUNX1, and many others, with provenance from the HPO and DISEASES databases.
 Additional genes such as BRCA1/BRCA2 and TP53, which are not listed in SPOKE, are also known to be associated with leukemia based on broader biomedical knowledge.
+
 From Section 2 (without SPOKE):
 
 Key genetic factors for leukemia include BRCA1/BRCA2, TP53, RUNX1, FLT3, and NPM1, highlighting the importance of these genes in the disease’s pathogenesis.
+
 Summary:
 Genetic factors play a crucial role in the development of leukemia. The SPOKE knowledge base identifies numerous genes associated with leukemia, supported by data from the HPO and DISEASES databases. Additionally, well-known genes such as BRCA1/BRCA2 and TP53, which are not listed in SPOKE, are also significant contributors to leukemia risk. For a comprehensive understanding, it is essential to consider both SPOKE-derived information and broader biomedical knowledge. Always consult a healthcare professional for personalized medical advice.
 
@@ -157,7 +164,9 @@ To provide a complete answer, I’ll add information from my trained biomedical 
 TREM2 (Triggering Receptor Expressed on Myeloid Cells 2)
 Explanation: TREM2 is associated with both Parkinson’s disease and Alzheimer’s disease.
 Provenance: GWAS Catalog, DISEASES database - https://diseases.jensenlab.org
+
 SECTION 2 - ANALYSIS WITHOUT SPOKE (USING KNOWLEDGE FROM LLM TRAINING):
+
 Based on my trained biomedical knowledge, the following genes are commonly associated with both Parkinson’s disease and Alzheimer’s disease:
 
 APP (Amyloid Beta Precursor Protein)
@@ -178,7 +187,9 @@ Explanation: SNCA encodes alpha-synuclein, a protein that aggregates in both Par
 TREM2 (Triggering Receptor Expressed on Myeloid Cells 2)
 
 Explanation: TREM2 mutations are associated with increased risk of Alzheimer’s disease and have been implicated in Parkinson’s disease.
+
 SECTION 3 - SUMMARY:
+
 Summary:
 
 SPOKE Information:
@@ -187,6 +198,7 @@ Common genes between Parkinson’s disease and Alzheimer’s disease identified 
 Additional Knowledge:
 
 TREM2 is also a common gene between Parkinson’s disease and Alzheimer’s disease, supported by both GWAS Catalog and DISEASES database.
+
 In conclusion, the genes APP, APOE, MAPT, PSEN1, SNCA, and TREM2 are common between Parkinson’s disease and Alzheimer’s disease. This information is derived from both the SPOKE knowledge base and additional biomedical knowledge. For any drug or medication suggestions, it is advised to seek guidance from a healthcare professional.
 
 </details>
@@ -232,7 +244,9 @@ Sleep Wake Disorders:
 
 MS presents with sleep-wake disorders (Provenance: NCBI PubMed).
 Lupus patients often experience sleep disturbances due to pain and fatigue.
+
 SECTION 2 - ANALYSIS WITHOUT SPOKE (USING KNOWLEDGE FROM LLM TRAINING):
+
 Based on my trained biomedical knowledge, the shared symptoms between multiple sclerosis (MS) and lupus (systemic lupus erythematosus) include:
 
 Fatigue: Both conditions commonly cause significant fatigue.
@@ -241,13 +255,16 @@ Muscle and Joint Pain: While MS causes muscle spasticity, lupus can cause muscle
 Vision Problems: Both diseases can lead to vision disturbances.
 Gait and Mobility Issues: Both conditions can affect mobility, though through different mechanisms.
 Sleep Disturbances: Both conditions can lead to sleep problems due to pain, fatigue, or other symptoms.
+
 SECTION 3 - SUMMARY:
+
 From Section 1 (with SPOKE):
 
 Shared symptoms between MS and lupus include fatigue, memory disorders, muscle spasticity (or muscle pain in lupus), vision disorders, gait disorders, and sleep-wake disorders. Provenance for these associations is primarily from NCBI PubMed.
 From Section 2 (without SPOKE):
 
 Additional shared symptoms include cognitive dysfunction, muscle and joint pain, and mobility issues. These insights are based on general biomedical knowledge.
+
 Summary:
 Both multiple sclerosis and lupus share several symptoms, including fatigue, cognitive dysfunction, muscle and joint pain, vision problems, gait and mobility issues, and sleep disturbances. The SPOKE knowledge base provides a solid foundation for these associations, supplemented by broader biomedical knowledge to fill in any gaps. For any specific treatment or medication advice, it is crucial to consult a healthcare professional.
 
@@ -279,6 +296,7 @@ Duloxetine: An SNRI (serotonin-norepinephrine reuptake inhibitor) commonly used 
 Escitalopram: An SSRI (selective serotonin reuptake inhibitor) often prescribed for generalized anxiety disorder.
 Sertraline: Another SSRI that is frequently used to manage generalized anxiety disorder.
 Venlafaxine: An SNRI that is also effective in treating generalized anxiety disorder.
+
 SECTION 2 - ANALYSIS WITHOUT SPOKE (USING KNOWLEDGE FROM LLM TRAINING)
 
 Based on my trained biomedical knowledge:
@@ -291,6 +309,7 @@ Duloxetine: An SNRI that helps in managing anxiety by affecting both serotonin a
 Escitalopram: An SSRI known for its efficacy in treating generalized anxiety disorder.
 Sertraline: An SSRI that is widely used for anxiety disorders.
 Venlafaxine: An SNRI that is effective for generalized anxiety disorder.
+
 SECTION 3 - SUMMARY
 
 From Section 1 (with SPOKE):
@@ -300,6 +319,7 @@ Additional drugs from biomedical knowledge include Duloxetine, Escitalopram, Ser
 From Section 2 (without SPOKE):
 
 The same four drugs (Alprazolam, Buspirone, Citalopram, and Paroxetine) are identified, along with additional drugs (Duloxetine, Escitalopram, Sertraline, and Venlafaxine) that are commonly used for generalized anxiety disorder.
+
 In conclusion, both SPOKE and trained biomedical knowledge identify Alprazolam, Buspirone, Citalopram, and Paroxetine as treatments for generalized anxiety disorder. Additional drugs such as Duloxetine, Escitalopram, Sertraline, and Venlafaxine are also effective and commonly used. Always consult a healthcare professional for personalized medical advice and treatment options.
 
 </details>
@@ -343,7 +363,9 @@ To provide a complete answer, I’ll add information from my trained biomedical 
 
 Clinically isolated syndrome (CIS):
 A first episode of neurological symptoms lasting at least 24 hours, caused by inflammation or demyelination in the central nervous system. It may or may not develop into multiple sclerosis.
+
 SECTION 2 - ANALYSIS WITHOUT SPOKE (USING KNOWLEDGE FROM LLM TRAINING):
+
 Based on my trained biomedical knowledge, the different types of multiple sclerosis (MS) include:
 
 Clinically Isolated Syndrome (CIS):
@@ -361,13 +383,16 @@ Initially begins as relapsing-remitting MS but transitions into a phase of stead
 Progressive-Relapsing MS (PRMS):
 
 A rare form of MS that shows steady progression of disability from onset but with clear acute relapses.
+
 SECTION 3 - SUMMARY:
+
 From Section 1 (with SPOKE):
 
 The SPOKE knowledge base identifies several types of multiple sclerosis, including Balo concentric sclerosis, primary progressive multiple sclerosis, progressive relapsing multiple sclerosis, relapsing-remitting multiple sclerosis, and secondary progressive multiple sclerosis. Provenance for these associations is primarily from the Disease Ontology.
 From Section 2 (without SPOKE):
 
 My trained biomedical knowledge adds to the list by including Clinically Isolated Syndrome (CIS) and provides detailed descriptions of each type of MS, including relapsing-remitting MS, primary progressive MS, secondary progressive MS, and progressive-relapsing MS.
+
 Summary:
 
 Both sources agree on the main types of multiple sclerosis: relapsing-remitting MS, primary progressive MS, secondary progressive MS, and progressive-relapsing MS. The SPOKE knowledge base also includes Balo concentric sclerosis, while my trained biomedical knowledge adds Clinically Isolated Syndrome (CIS) to the list. For a comprehensive understanding, it is essential to consider both sources. Always consult a healthcare professional for personalized medical advice.
