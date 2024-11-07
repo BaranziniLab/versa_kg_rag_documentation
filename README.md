@@ -12,7 +12,7 @@
 - [Quick Start](#quick-start)
 - [What is SPOKE?](#what-is-spoke)
 - [What is KG-RAG?](#what-is-kg-rag)
-- [Using KG-RAG in Versa](#using-kg-rag-in-versa)
+- [Using KG-RAG in Versa](#using-kg-rag-in-ucsf-versa)
 - [KG-RAG API Access](#kg-rag-api-access)
 - [Additional Resources](#additional-resources)
 
